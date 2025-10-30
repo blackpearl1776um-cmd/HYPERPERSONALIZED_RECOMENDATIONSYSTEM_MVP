@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Organic Cotton T-Shirt",
+    "price": 29.99,
+    "category": "clothing",
+    "brand": "EcoWear",
+    "sustainability_tags": ["organic", "fair-trade", "vegan", "biodegradable"],
+    "description": "100% organic cotton, fair trade certified"
+  },
+  {
+    "id": 2,
+    "name": "Bamboo Toothbrush",
+    "price": 4.99,
+    "category": "personal-care",
+    "brand": "GreenSmile",
+    "sustainability_tags": ["biodegradable", "plastic-free", "vegan"],
+    "description": "Zero plastic, completely biodegradable"
+  },
+  {
+    "id": 3,
+    "name": "Recycled Glass Water Bottle",
+    "price": 24.99,
+    "category": "kitchen",
+    "brand": "EcoHydrate",
+    "sustainability_tags": ["recycled", "plastic-free", "carbon-neutral"],
+    "description": "Made from 100% recycled glass"
+  },
+  {
+    "id": 4,
+    "name": "Hemp Backpack",
+    "price": 49.99,
+    "category": "accessories",
+    "brand": "EarthGear",
+    "sustainability_tags": ["vegan", "organic", "fair-trade"],
+    "description": "Durable hemp, ethically produced"
+  },
+  {
+    "id": 5,
+    "name": "Solar Powered Charger",
+    "price": 39.99,
+    "category": "electronics",
+    "brand": "SunPower",
+    "sustainability_tags": ["carbon-neutral", "energy-efficient", "renewable"],
+    "description": "Harness solar energy for your devices"
+  },
+  {
+    "id": 6,
+    "name": "Compostable Phone Case",
+    "price": 19.99,
+    "category": "electronics",
+    "brand": "EcoCase",
+    "sustainability_tags": ["compostable", "plastic-free", "biodegradable"],
+    "description": "Completely compostable in 6 months"
+  },
+  {
+    "id": 7,
+    "name": "Fair Trade Coffee Beans",
+    "price": 14.99,
+    "category": "food",
+    "brand": "EthicalBean",
+    "sustainability_tags": ["fair-trade", "organic", "vegan"],
+    "description": "Direct trade with farmer cooperatives"
+  },
+  {
+    "id": 8,
+    "name": "Cork Yoga Mat",
+    "price": 59.99,
+    "category": "fitness",
+    "brand": "NaturalFlow",
+    "sustainability_tags": ["renewable", "vegan", "biodegradable"],
+    "description": "Sustainable cork, natural rubber base"
+  },
+  {
+    "id": 9,
+    "name": "Upcycled Denim Jacket",
+    "price": 79.99,
+    "category": "clothing",
+    "brand": "ReFashion",
+    "sustainability_tags": ["upcycled", "vegan", "water-saving"],
+    "description": "Made from reclaimed denim, saves water"
+  },
+  {
+    "id": 10,
+    "name": "LED Eco Bulbs (Pack of 4)",
+    "price": 22.99,
+    "category": "home",
+    "brand": "GreenLight",
+    "sustainability_tags": ["energy-efficient", "long-lasting", "carbon-neutral"],
+    "description": "80% less energy than traditional bulbs"
+  }
+]
